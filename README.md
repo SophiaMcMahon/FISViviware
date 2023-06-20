@@ -1,2 +1,2 @@
 # FISViviware
-# This repository is to show my coding progress for a new website for Free International School
+# このサイトは進行中です。これは、フリー インターナショナル スクールの生徒が Viviware プロジェクトを作成できるように支援することを目的としています。
