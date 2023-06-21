@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+
+h1, h2, h3 {
+    margin: 0;
+}
+
+#about {
+    background-color: #cfe5f5;
+    padding: 20px;
+}
+
+#school-info {
+    background-color: #f5eac9;
+    padding: 20px;
+}
