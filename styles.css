@@ -7,19 +7,34 @@ body {
 header {
     background-color: #f2f2f2;
     padding: 20px;
+    text-align: center;
 }
 
-h1, h2, h3 {
+h1 {
     margin: 0;
 }
 
-#about {
-    background-color: #cfe5f5;
-    padding: 20px;
+nav ul.tabs {
+    display: inline-block;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 }
 
-#school-info {
-    background-color: #f5eac9;
-    padding: 20px;
+nav ul.tabs li {
+    display: inline-block;
+    margin-left: 10px;
 }
+
+nav a {
+    text-decoration: none;
+    color: #333;
+}
+
+/* Rest of your styles go here */
+
+
+
+
+
 
